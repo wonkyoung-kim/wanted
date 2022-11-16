@@ -1,0 +1,267 @@
+{
+  "items" : [
+    {
+      "id" : "더미데이터",
+      "thumbUrl" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fstatic%2Ficon%2Fios%2Ficon152.png&w=140&q=75",
+      "category" : 1,
+      "title" : "커리어우먼의 전성기를 갱신하기 위한 도전",
+      "desc" : "보아의 갓더비트 데뷔, 마마돌의 우아힙, 이효리의 MAMA 두 더 댄스 무대.. 요즘 나도 모르게 찾아보게 되는 영상들이다.  한번도 나이 들었다는 생각을 안했다고하면 거짓말이지만 어느새 20대도 아닌 10대가 판을 치는 아이돌판에서 내가 언니라고 부르던 가수들과 또래라고 느끼던 아이돌들이 언제 이런 느낌이 되었을까. 새삼스럽게 씁쓸하며 응원하기도 하고 위",
+      "writer" : {
+        "name" : "도그냥",
+        "img" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fstatic%2Ficon%2Fios%2Ficon120.png&w=60&q=90",
+        "media" : "brunch"
+      }
+    },
+    {
+      "id" : "더미데이터",
+      "thumbUrl" : "https://image.wanted.co.kr/optimize?src=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1Wwt%2Fimage%2FtmccpPhE-yOaNv8LAjmZ_dLStK0.JPG&w=500&q=75",
+      "category" : 1,
+      "title" : "자신의 한계를 뛰어넘는 비법",
+      "desc" : "마지막 몰입 이 책의 저자는 짐 퀵입니다. 빌 게이츠, 윌 스미스, 스탠 리, 노박 조코비치 등 25년 넘게 정치, 스포츠, 연예계 수많은 사람들의 잠재력을 깨워준 브레인 코치라고 해요. 기업이나 대학뿐만 아니라 백악관에서도 강연을 하는 그런 인물입니다. 엄청난 사람이죠?   그런데 짐 퀵은 대학에 들어갈 때까지 책 한 권을 끝까지 읽기도 힘들었다고 합니다",
+      "writer" : {
+        "name" : "장영학",
+        "img" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fstatic%2Ficon%2Fios%2Ficon120.png&w=60&q=90",
+        "media" : "brunch"
+      }
+    },
+    {
+      "id" : "더미데이터",
+      "thumbUrl" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fwanted.video.kr.kollus.com%2Fkr%2Fsnapshot%2Fwanted%2F20220311%2F5%2F96940863.jpg&w=500&q=75",
+      "category" : 1,
+      "title" : "개발자 커리어 : 두려움이 이끄는 대로",
+      "desc" : "꼬인 경력에서 어떻게 CTO가 되었나? 윈도우 클라이언트 개발자로 커리어를 시작해서 백엔드 개발자, 테크리드를 거쳐서 CTO가 되기까지의 경험과 전략 그리고 얻었던 인사이트에 대해서 소개합니다. 윈도우에서 리눅스로의 스택 변경, 하드웨어, 검색, 결제, 핀테크 등의 다양한 도메인에서의 경험들이 어떻게 커리어를 디벨롭시켰고 그 안에서 어떤 전략들을 취했는지 공유해 드립니다.",
+      "writer" : {
+        "name" : "Payhere, 안성현",
+        "img" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Ffavicon%2F144x144.png&w=60&q=90",
+        "media" : "원티드"
+      }
+    },
+    {
+      "id" : "더미데이터",
+      "thumbUrl" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fwanted.video.kr.kollus.com%2Fkr%2Fsnapshot%2Fwanted%2F20210720%2F7%2F46144350.jpg&w=500&q=75",
+      "category" : 1,
+      "title" : "(전)뱅크샐러드, 다노, 우아한형제들 개발자가 들려주는 웹 개발자로 커리어 시작하기!취업 준비 방법부터 주니어 개발자의 성장, 이직 팁까지 경험에서 나오는 진짜 노하우가 시작됩니다.",
+      "writer" : {
+        "name" : "뱅크샐러드 이동근, 다노 김병욱, 우아한형제들 장현석",
+        "img" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Ffavicon%2F144x144.png&w=60&q=90",
+        "media" : "원티드"
+      }
+    },
+    {
+      "id" : "더미데이터",
+      "thumbUrl" : "./assets/images/img-career1.png",
+      "category" : 1,
+      "title" : "기획자도 파이썬을 배워야 하나요? 2 (+적용 사례)",
+      "desc" : "PM이라면 데이터 분석에 꽤 많은 시간을 쏟으실 거예요. 어떻게 하면 분석 업무를 조금 더",
+      "writer" : {
+        "name" : "순자",
+        "img" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fwanted-public.s3.ap-northeast-2.amazonaws.com%2Fyoutube_opengraph.png&w=60&q=90",
+        "media" : "유튜브"
+      }
+    },
+    {
+      "id" : "더미데이터",
+      "thumbUrl" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fwanted.video.kr.kollus.com%2Fkr%2Fsnapshot%2Fwanted%2F20220516%2F17%2F75369770.jpg&w=500&q=75",
+      "category" : 1,
+      "title" : "좋은 동료 But 낮은 연봉과 보상",
+      "desc" : "동료는 좋지만 낮은 연봉과 보상 때문에 사표를 품에 넣은 직장인의 실제 사연을 통해 ‘직장생활의 리얼리티’를 들여다보고, 현실을 극복하기 위한 방법에 대해 이야기합니다. 지금보다 더 행복하고 즐거운 직장생활을 위해, 그리고 나의 연봉과 커리어의 성장을 위해!",
+      "writer" : {
+        "name" : "한국인성컨설팅&마인드클리닉 노주선",
+        "img" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Ffavicon%2F144x144.png&w=60&q=90",
+        "media" : "원티드"
+      }
+    },
+    {
+      "id" : "더미데이터",
+      "thumbUrl" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fwanted.video.kr.kollus.com%2Fkr%2Fsnapshot%2Fwanted%2F20220517%2F1%2F19495304.jpg&w=500&q=75",
+      "category" : 1,
+      "title" : "보상은 있지만 성장은 없는 곳",
+      "desc" : "보상은 있지만 성장할 수 없다고 느껴지는 회사에서 이직을 고민하는 직장인의 실제 사연을 통해 ‘직장생활의 리얼리티’를 들여다보고, 현실을 극복하기 위한 방법에 대해 이야기합니다. 지금보다 더 행복하고 즐거운 직장생활을 위해, 그리고 나의 연봉과 커리어의 성장을 위해!",
+      "writer" : {
+        "name" : "한국인성컨설팅&마인드클리닉 노주선",
+        "img" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Ffavicon%2F144x144.png&w=60&q=90",
+        "media" : "원티드"
+      }
+    },
+    {
+      "id" : "더미데이터",
+      "thumbUrl" : "https://image.wanted.co.kr/optimize?src=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F69YW%2Fimage%2FIYWCyRw7YgQB1ToQhFZ_odQHVNQ.JPG&w=500&q=75",
+      "category" : 1,
+      "title" : "성장의 계단",
+      "desc" : "성장의 계단 간만에 잠 제대로 자다가 허리 뽀개지는 줄 알았네요. 아직 회복이 다된 것은 아니지만, 그래도 조금씩 회복 되어가는 중입니다. 오늘부터는 일과를 모두 소화하고 있기도 하고요. 다행히 4월 부터는 조금 여유로운 일정?을 잡았다고 할까요? ㅎㅎㅎ 성장에 대해 계속 고민하는 시기입니다. 스타트업과 지지고 볶으며 시간을 보내고 있고, 가장 많은 시간을",
+      "writer" : {
+        "name" : "그로플 백종화",
+        "img" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fstatic%2Ficon%2Fios%2Ficon120.png&w=60&q=90",
+        "media" : "brunch"
+      }
+    },
+    {
+      "id" : "더미데이터",
+      "thumbUrl" : "https://image.wanted.co.kr/optimize?src=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fguest%2Fimage%2FWTBA0RJeCGrzzB4kEmliGMOyGWk.png&w=500&q=75",
+      "category" : 2,
+      "title" : "핀테크 기획 주니어가 느낀 점",
+      "desc" : "신입 연수가 끝나고 가고 싶은 부서를 선택할 기회가 있었다. 선택한다고 무조건 갈 수 있는 것은 아니었지만 그래도 기회가 있다는 것만으로도 감사했다.  당시 나는 고민하다가 핀테크를 할 수 있는 부서를 선택했고 운이 좋게 그대로 가게 되었다. 그때 내가 핀테크를 선택한 이유는 다음과 같았다.  한참 핫했다. 이직할 때 좋은 분야라 들었다. 같은 부서를 선택",
+      "writer" : {
+        "name" : "이준우",
+        "img" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fstatic%2Ficon%2Fios%2Ficon120.png&w=60&q=90",
+        "media" : "브런치"
+      }
+    },
+    {
+      "id" : "더미데이터",
+      "thumbUrl" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fwanted.video.kr.kollus.com%2Fkr%2Fsnapshot%2Fwanted%2F20221101%2F5%2F88523735.jpg&w=500&q=75",
+      "category" : 2,
+      "title" : "우형의 개발자들은 어떻게 일할까?",
+      "desc" : "우형의 개발자들은 어떻게 일할까요? 우형의 '진짜'가 궁금한 분들을 위해 준비했습니다.",
+      "writer" : {
+        "name" : "우아한형제들 김정환, 우아한형제들 박경태, 우아한형제들 정우진",
+        "img" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Ffavicon%2F144x144.png&w=60&q=90",
+        "media" : "원티드"
+      }
+    },
+    {
+      "id" : "더미데이터",
+      "thumbUrl" : "https://image.wanted.co.kr/optimize?src=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F1J9E%2Fimage%2FiTeTHvALhsR6vrc4qQcHraqTC9Q.png&w=500&q=75",
+      "category" : 2,
+      "title" : "넷플릭스와 애플의 엇갈린 행보가 보여주는 것",
+      "desc" : "아래 글은 2022년 05월 11일에 발행된 뉴스레터에 실린 글입니다. 전체 뉴스레터를 보시려면 옆의 링크를 클릭하시면 됩니다. [뉴스레터 보러 가기] ​ 잘 안 되는 데는 다 이유가 있습니다 아마존을 비롯한 많은 테크 기업들의 주가가 급락했지만, 역시 가장 충격과 공포였던 건 넷플릭스일 겁니다. 올해 1분기 실적이 발표되고, 주가가 작년 고점 대비 무려 ",
+      "writer" : {
+        "name" : "기묘한",
+        "img" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fstatic%2Ficon%2Fios%2Ficon120.png&w=60&q=90",
+        "media" : "브런치"
+      }
+    },
+    {
+      "id" : "더미데이터",
+      "thumbUrl" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fwanted.video.kr.kollus.com%2Fkr%2Fsnapshot%2Fwanted%2F20220704%2F2%2F01643073.jpg&w=500&q=75",
+      "category" : 3,
+      "title" : "Talk : 면접을부탁해 - 디자인직군",
+      "desc" : "면접을 진행하며 얻었던 다양한 인사이트를 공유하고,면접에서 디자이너들이 자신의 장점을 효과적으로 어필할 수 있는 면접 노하우를 알려드립니다.",
+      "writer" : {
+        "name" : "원티드랩 김석희",
+        "img" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Fstatic.wanted.co.kr%2Ffavicon%2F144x144.png&w=60&q=90",
+        "media" : "원티드"
+      }
+    },
+    {
+      "id" : "더미데이터",
+      "thumbUrl" : "https://image.wanted.co.kr/optimize?src=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F2nJ4%2Fimage%2FvynHux0j55jNXouF1V78SU_qao4.jpg&w=500&q=75",
+      "category" : 3,
+      "title" : "대외활동도 스펙이 되려면",
+      "desc" : "요즘 대학생들에게 학교활동외 대외활동이 거의 필수처럼 자리잡고 있는 것 같습니다. 코로나시국에도 대외활동들은 끊이지 않고 있는걸 보면 더 그런 생각을 하게 됩니다. 제가 대학생활을 하던 2000년대 후반~2010년대 초반만 하더라도 대외활동들이 이제 막 태동을 하던 시기라서 활동들마다 1기, 2기, 3기 이런 수준이었는데 요즘에는 정말 종류도 다양하고 기수",
+      "writer" : {
+        "name" : "퇴사유랑단",
+        "img" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fstatic%2Ficon%2Fios%2Ficon120.png&w=60&q=90",
+        "media" : "원티드"
+      }
+    },
+    {
+      "id" : "더미데이터",
+      "thumbUrl" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fstatic%2Ficon%2Fios%2Ficon152.png&w=140&q=75",
+      "category" : 4,
+      "title" : "말을 비우고 대화를 채웁니다",
+      "desc" : "말을 비우고 대화를 채우라니, 참으로 감탄스러운 표현입니다. 말하는데 관심이 쏠려 대화에는 서툴었던 스스로를 돌아보고 반성합니다.  들어주는 것을 넘어 상대의 말을 끌어내라 경청만으로는 부족하다. 한 걸음 더 나아가야 한다. 들어주는 것을 넘어 상대의 말을 끌어내야 한다. 말을 이끌어내는 능력이 대화 역량이다. 말을 이끌어내는 능력이 대화 역량이라는 마지막",
+      "writer" : {
+        "name" : "안영회 습작",
+        "img" : "./assets/images/img-profile1.png",
+        "media" : "브런치"
+      }
+    },
+    {
+      "id" : "더미데이터",
+      "thumbUrl" : "https://image.wanted.co.kr/optimize?src=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F7SUi%2Fimage%2F7Cv4DLxEEw66VfzkyqEuHKd-ELw.jpeg&w=500&q=75",
+      "category" : 4,
+      "title" : "어른의 대화법",
+      "desc" : "회사 생활을 하면서 여러 상사를 모셨습니다. 그중에서는 아직도 기억에 많이 남는 분이 있습니다. 그분의 말씀은 항상 온화했습니다. 거친 공격의 언어가 오가는 와중에도 그분은 한결같이 차분하고 존중의 언어를 사용하셨습니다. 일부 사람들은 본인이 살아남기 위해, 그분을 깎아 내리는 일도 서슴지 않았습니다. 하지만 그분은 그런 점을 다 아시는 와중에도 품격을 잃",
+      "writer" : {
+        "name" : "책인사",
+        "img" : "./assets/images/img-profile1.png",
+        "media" : "브런치"
+      }
+    },
+    {
+      "id" : "더미데이터",
+      "thumbUrl" : "https://image.wanted.co.kr/optimize?src=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FA1Z%2Fimage%2FFlThHqLafpLk2X8oXrv4IgngFAM.jpg&w=500&q=75",
+      "category" : 4,
+      "title" : "생각을 차근차근 깔끔하게 말하는 16가지 방법",
+      "desc" : "출근할 때도, 밥먹을 때도, 퇴근할 때도 우린 엄청나게 많은 정보를 받아들여요. 핸드폰을 끊임없이 바라보며 뉴스, 가십, 누군가의 일상, 과거의 기억, 광고, 정보를 와구와구 먹고 있죠. 그래서 이제 학생들에게 시험은 필요없다는 말까지 나와요. 필요한 정보는 핸드폰 속에 모두 있으니까요. 분명 두뇌에 지식을 저장하는 건 비효율적이에요. 다만, 주어진 정보를",
+      "writer" : {
+        "name" : "박창선",
+        "img" : "./assets/images/img-profile1.png",
+        "media" : "브런치"
+      }
+    },
+    {
+      "id" : "더미데이터",
+      "thumbUrl" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fstatic%2Ficon%2Fios%2Ficon152.png&w=140&q=75",
+      "category" : 5,
+      "title" : "협업",
+      "desc" : "협업 Collaboration  함께 협업을 할 때 중요한 것은 무엇일까요?  [1] 협업은 혼자가 아닌 다양한 사람, 부서, 직급과 함께 일을 하는 것입니다. 이때 중요한 것은 '공유하는 목적'이죠 이를 다른 말로 표현하는 '공동의 목표' 입니다.  내가 하는 일이 다른 사람에게는 피해가 된다면 협업이 불가능하다는 이야기입니다. 내가 잘되기 위해서 옆에 ",
+      "writer" : {
+        "name" : "그로플 백종화",
+        "img" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fstatic%2Ficon%2Fios%2Ficon120.png&w=60&q=90",
+        "media" : "brunch"
+      }
+    },
+    {
+      "id" : "더미데이터",
+      "thumbUrl" : "https://image.wanted.co.kr/optimize?src=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fguest%2Fimage%2Fg-Kfj6hm86ehNXnDVf9eLwx2uFo.png&w=500&q=75",
+      "category" : 5,
+      "title" : "나답게 자유로워 지기까지",
+      "desc" : "브런치에서는 ‘김마이너’로 알고 있는, 케이엠 작가님의 ‘나답게 자유로워 지기까지’를 읽었다.  남들에게는 선망의 직장인 대형 로펌에서 억대 연봉을 과감히 포기하고, 독립의 길로 들어선 저자의 이야기는, 책 제목 그대로 ‘나답게 자유로워 지기까지’의 과정을 생생하게 표현하고 있다.   나의 영혼까지 자유로워질 수 있도록 힘을 불어넣어 주었던, 케이엠 작가님",
+      "writer" : {
+        "name" : "책인사",
+        "img" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fstatic%2Ficon%2Fios%2Ficon120.png&w=60&q=90",
+        "media" : "brunch"
+      }
+    },
+    {
+      "id" : "더미데이터",
+      "thumbUrl" : "https://image.wanted.co.kr/optimize?src=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F21Bp%2Fimage%2FbZxnUA63cX3ERgp2xbmnskGRzvs.jpg&w=500&q=75",
+      "category" : 5,
+      "title" : "03. 버티고 난 뒤 얻은 것",
+      "desc" : "한 3개월을 초라한 나로 버텼다. 일단 내 뒤에는 회사-이직 사이의 기간에 부모님께 손 벌린 돈이 있었고, 그 외 여러 이유로 내 등 뒤에는 버티게 만드는, 도망칠 수 없게 만드는 벽이 있었다. 이유야 어떻든 사실은 꾸역꾸역 버틴 것이다. 꾸역꾸역.  친구를 만나면 한없이 호소했다. 우리 회사는 이렇고, 저렇고.  면접 보러 들어갈 때 느끼던 자유로운 분위",
+      "writer" : {
+        "name" : "혜님",
+        "img" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fstatic%2Ficon%2Fios%2Ficon120.png&w=60&q=90",
+        "media" : "brunch"
+      }
+    },
+    {
+      "id" : "더미데이터",
+      "thumbUrl" : "https://image.wanted.co.kr/optimize?src=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FxX6%2Fimage%2F408oRcyqGTuI_RkMOANicKuQMlg.jpg&w=500&q=75",
+      "category" : 6,
+      "title" : "기업가정신과 리더십은 무엇이 다른가",
+      "desc" : "큰 틀에서 기업가정신(Entrepreneurship)과 리더십(Leadership)은 같다. 하지만 이것을 구별 짓는 가장 큰 차이점은 혁신을 위해 얼마나 위험을 감수하는가라는 도전 정신이다.  과거에 리더라 불리던 기업가들은 기존의 규칙에서 레버리지로 규모만 키운 사람들이 많았다. 1920년대에 포드의 모델T는 한때 단일모델로만 시장 점유율 60%를 이뤄",
+      "writer" : {
+        "name" : "최효석",
+        "img" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fstatic%2Ficon%2Fios%2Ficon120.png&w=60&q=90",
+        "media" : "브런치"
+      }
+    },
+    {
+      "id" : "더미데이터",
+      "thumbUrl" : "https://image.wanted.co.kr/optimize?src=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FFCW%2Fimage%2F0pqPHt7nSRkxRjbLs-wAgR2Udc4&w=500&q=75",
+      "category" : 6,
+      "title" : "나는 어떤 리더가 될 것인가?",
+      "desc" : "창업을 하면서 거리가 멀어진 게 세 가지가 있다. 독서, 글쓰기, 운동 이 세 가지인데, 장기적으로 스스로에게 너무 중요한 일들이라 새해에는 다시 이 세 가지를 규칙적으로 해보려고 루틴을 만들고 있다. 그런 와중에 정말 오랜만에 다시 트레바리 독서 모임에 참여하게 되어, 1분기에는 트레바리를 통해 독서와 글쓰기를 한방에 해결할 계획이다.     독서모임은 ",
+      "writer" : {
+        "name" : "장한솔",
+        "img" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fstatic%2Ficon%2Fios%2Ficon120.png&w=60&q=90",
+        "media" : "브런치"
+      }
+    },
+    {
+      "id" : "더미데이터",
+      "thumbUrl" : "https://image.wanted.co.kr/optimize?src=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F9kS%2Fimage%2FNYyzp7--e8G1MqXahXh-n8qXYhU.jpeg&w=500&q=75",
+      "category" : 6,
+      "title" : "트럼프도 따봉하는 '프로덕트 오너 마인드셋 Top 3'",
+      "desc" : "프로덕트 오너 Product Owner는 정신머리를 잘 붙들고 있어야합니다. 딸린 식구가 많기 때문입니다. 어느 한 구성원에 소홀이 하면 그 식구는 저를 떠나갑니다. 쉽게 되돌릴 수 없습니다. 있을 때 잘해야합니다.  그렇기 때문에 프로덕트 오너는 3가지 관점의 마인드셋을 항상 장착하고 있어야한다고 생각합니다. 고객 중심, 동료 중심, Business 중심",
+      "writer" : {
+        "name" : "키릴 kiril",
+        "img" : "https://image.wanted.co.kr/optimize?src=https%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fstatic%2Ficon%2Fios%2Ficon120.png&w=60&q=90",
+        "media" : "브런치"
+      }
+    }
+  ]
+}
