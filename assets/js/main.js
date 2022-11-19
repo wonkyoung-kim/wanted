@@ -50,6 +50,11 @@ var swiper = new Swiper(".main-slide", {
     nextEl: ".next",
     prevEl: ".prev",
   },
+  breakpoints: {
+    768: {
+      spaceBetween: 20, 
+    }
+  }
 });
 
 //턉슬라이드
@@ -112,17 +117,14 @@ $('.tab-slide .swiper-slide').click(function(){
 
 //article슬라이드
 var swiper = new Swiper(".article-slide", {
-  slidesPerView: "1",
+  slidesPerView: "2",
   spaceBetween: 20,
   navigation: {
     nextEl: ".next",
     prevEl: ".prev",
   },
   breakpoints: {
-    768: {
-      slidesPerView: "2",
-    },
-    1024: {
+    1025: {
       slidesPerView: "4",
     }
   }
@@ -131,17 +133,14 @@ var swiper = new Swiper(".article-slide", {
 
 //vod슬라이드
 var swiper = new Swiper(".vod-slide", {
-  slidesPerView: "1",
+  slidesPerView: "2",
   spaceBetween: 20,
   navigation: {
     nextEl: ".next",
     prevEl: ".prev",
   },
   breakpoints: {
-    768: {
-      slidesPerView: "2",
-    },
-    1024: {
+    1025: {
       slidesPerView: "4",
     }
   }
