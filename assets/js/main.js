@@ -5,6 +5,7 @@ fetch('./assets/data/menu.json')
 .then((response) => response.json())
 .then((json) => {
   data = json.items;
+  console.log(data)
   let html = '';
 
   data.forEach(el => {
@@ -27,15 +28,18 @@ fetch('./assets/data/menu.json')
     e.preventDefault();
     $('.group-lnb').addClass('active');
     $('.lnb-item').find('.sub-list').hide();  
+    $('body').css({overflow: 'hidden'})
   })
   $('.lnb-list').mouseleave(function(e){
     e.preventDefault();
     $('.group-lnb').removeClass('active');
+    $('body').css({overflow: 'auto'})
   });
   $('.lnb-item').mouseover(function(e){
     e.preventDefault();
     $('.lnb-item').find('.sub-list').hide();  
     $(this).find('.sub-list').show();  
+    $('body').css({overflow: 'hidden'})
   });
 });
 
